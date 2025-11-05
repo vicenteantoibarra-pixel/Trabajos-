@@ -6,4 +6,4 @@ class Veterinaria:
         self.mascota = []
 
     def mascotas (self,mascota:Mascotas):
-        
+        self.mascota = mascota
